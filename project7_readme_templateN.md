@@ -1,8 +1,8 @@
-# Project 7 - *Name of App Here*
+# Project 7 - *Task starter*
 
-Submitted by: **Your Name Here**
+Submitted by: ***Neeraja Yasam***
 
-**Name of your app** is an app that ... [TODO] 
+**Task starter** is an app that ... lets you choose everything] 
 
 Time spent: **X** hours spent in total
 
